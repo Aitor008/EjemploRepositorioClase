@@ -6,6 +6,7 @@ public class Ejemploclasegithub {
         System.out.println("Hola Mundo");
         System.out.println("Adios");
         System.out.println("Mayonesa");
+        System.out.println("Ni caso");
     }
     
 }
